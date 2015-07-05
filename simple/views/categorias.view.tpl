@@ -1,6 +1,6 @@
 <h2>Listado de Categorias</h2>
 <a href>Agregar Categoría</a>
-<table style="margin:2em; width:90%">
+<table style="margin:5em; width:90%">
     <tr>
         <th>
             Cod.
